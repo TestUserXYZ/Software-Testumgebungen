@@ -6,7 +6,7 @@ public class Output {
 	@Test
 	public void    ext () {
 		
-		System.out.println("TEST_1:  Successful");	
+		System.out.println("TEST_1:  Successful XXXXXXXXXX");	
 	}
 		
 	public void  main (String[] args) {
